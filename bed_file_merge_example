@@ -1,6 +1,0 @@
-Control	DUP	10	20
-Exp	DUP	15	18
-			
-	shared	15	18
-	Ctrl_uniq	10	14
-	Exp_uniq	19	20
